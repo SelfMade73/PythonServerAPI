@@ -2,6 +2,7 @@ import socket
 import re
 import urllib.parse
 
+#Агафонов Алексей Сергеевич СПб
 
 def  createResponseData(responseString : str):
     data: dict = {}
